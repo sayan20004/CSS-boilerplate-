@@ -1,0 +1,20 @@
+{
+ {
+  "CSS Boilerplate": {
+    "prefix": "prefix",
+    "body": [
+      "* {",
+      "\tpadding: 0;",
+      "\tmargin: 0;",
+      "\tbox-sizing: border-box;",
+      "}",
+      "",
+      "html, body {",
+      "\twidth: 100%;",
+      "\theight: 100%;",
+      "}",
+    ],
+    "description": "CSS Boilerplate"
+  }
+ }
+}
